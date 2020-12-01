@@ -14,7 +14,7 @@
 		<div class="block bg-purple-500 rounded-lg shadow shadow-inner-xl" style="font-size: 3rem">
 		<div class="grid grid-cols-2 gap-4">
 		<div style="margin-left: 0.09em;">T:do</div>
-		<div><a href="" style="float: right;"><img style="margin-top:0.12em;margin-right:0.12em; " width="50" height="50" src="git.png"></a></div>
+		<div><a href="https://github.com/sahilmhatrre001/T-Do" class="hover:animate-ping" style="float: right;"><img style="margin-top:0.12em;margin-right:0.12em; " width="50" height="50" src="git.png"></a></div>
 		</div>
 		</div>
 		<div class="block h-100">
